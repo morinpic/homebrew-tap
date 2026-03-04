@@ -1,6 +1,6 @@
 cask "claude-status-bar" do
   version "1.0.0"
-  sha256 "81eddfd67ab081b08dec636d798e222a08fdeef7795cdc04a798ed051282b3a9"
+  sha256 "ec5ced540de4817c60eae5087cb81fde50ade648ea6a95f923980bd10b19ca0e"
 
   url "https://github.com/morinpic/Claude-Status-Bar/releases/download/v#{version}/ClaudeStatusBar-#{version}.zip"
   name "Claude Status Bar"
