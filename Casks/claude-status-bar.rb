@@ -1,8 +1,8 @@
 cask "claude-status-bar" do
-  version "2.0.0"
-  sha256 "a9999a5ae0eb34665d60b6f901d867591ccdb6e427853b08a354e9c73c27a201"
+  version "2.1.0"
+  sha256 "a306e1713b35d9a838f87a242ab12a854dbe549e9ce032aa4db6c9793f914ff9"
 
-  url "https://github.com/morinpic/Claude-Status-Bar/releases/download/v#{version}/ClaudeStatusBar-2.0.0.zip"
+  url "https://github.com/morinpic/Claude-Status-Bar/releases/download/v#{version}/ClaudeStatusBar-2.1.0.zip"
   name "Claude Status Bar"
   desc "Menu bar app that monitors Claude service status"
   homepage "https://github.com/morinpic/Claude-Status-Bar"
